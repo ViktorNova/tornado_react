@@ -17,3 +17,10 @@ Testing PyReact + Tornado + Motor + Jinja2 + reactjs
  $ pip install -r requirements.txt
 
 ```
+
+
+_____
+VIKTOR! - 
+React bridge to Famo.us 
+http://react-famous.github.io/
+https://github.com/pilwon/react-famous
